@@ -1,2 +1,6 @@
 data/
 finetune_output/
+figures/
+.claude/
+instructor/
+__pycache__
